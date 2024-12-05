@@ -1,2 +1,2 @@
 # OOP-Project
-Basic Object Oriented Project
+Basic Object Oriented Programming Project
